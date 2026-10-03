@@ -15,4 +15,4 @@ Install the required libraries to the virtual environment
 6. ```python -m daags_engine.run```
 Run the program
 
-You also might need to install PostgreSQL onto your computer
+You will need to install PostgreSQL onto your computer
