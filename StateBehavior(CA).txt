@@ -1,0 +1,8 @@
+StateBehavior(CA): 
+purchase_freq_factor=1.0550 
+min_items=1 
+max_items=10 
+price_spread=0.0510 
+month_item_multiplier[min=0.904, max=1.085] 
+top_category_weights=[tech:1.5637, travel:1.5280, gourmet:1.4615, beauty:1.4253, photo:1.3719, fitness:1.3708, gaming:1.2577, fashion:1.1569] (+7 more) 
+payment_method_weights=[card=0.3834, cash=0.1823, online=0.5190]
